@@ -55,16 +55,16 @@
                             <div class="col-xs-12 col-sm-6 col-md-6 top--contact hidden-xs">
                                 <ul class="list-inline mb-0 ">
                                     <li>
-                                        <i class="lnr lnr-clock"></i><span>Lundi - Dimanche 9.00 : 17.00</span>
+                                        <i class="lnr lnr-clock"></i><span>Lundi - Dimanche 9.00 : 23.00</span>
                                     </li>
                                     <li>
-                                        <i class="lnr lnr-phone-handset"></i> <span>(04) 491 570 110</span>
+                                        <i class="lnr lnr-phone-handset"></i> <a href="tel:+212529100200"><span>(212) 529 100 200</span></a>
                                     </li>
                                 </ul>
                             </div><!-- .col-md-6 end -->
                             <div class="col-xs-12 col-sm-6 col-md-6 top--info text-right text-center-xs">
-                                <span class="top--login"><i class="lnr lnr-exit"></i><a href="#">Login</a> / <a
-                                        href="#">Register</a></span>
+                                <span class="top--login"><i class="lnr lnr-exit"></i><a href="login.php">Login</a> / <a
+                                        href="register.php">Register</a></span>
                                 <span class="top--social">
                                     <a class="facebook" href="#"><i class="fa fa-facebook"></i></a>
                                     <a class="youtube" href="#"><i class="fa fa-youtube"></i></a>
